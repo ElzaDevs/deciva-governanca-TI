@@ -1,0 +1,6 @@
+{
+  "name": "IT Governance & Software Engineering Lab - GOVLAB",
+  "description": "Simulador profissional completo de Engenharia de Software, Gestão e Governança de TI na empresa virtual Nexora Digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
